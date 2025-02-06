@@ -1,6 +1,10 @@
 # Ghostbusters en Asturias 👻
 
 
+![Java](https://img.shields.io/badge/Java-21-blue)
+![JUnit](https://img.shields.io/badge/JUnit-Test-green)
+![Maven](https://img.shields.io/badge/Maven-Build-orange)
+
 ## Tabla de Contenidos
 - [Descripción](#descripción)
 - [Opciones del Jugador](#opciones-del-jugador)
@@ -82,6 +86,7 @@ Al iniciar el programa, se mostrará un menú con las opciones disponibles. Sele
 ---
 
 ## Ejemplo de Interacción
+
 ```plaintext
 ============================================
     ¡Bienvenido a la Base Ghostbusters Asturias!
@@ -98,6 +103,14 @@ Opciones:
 Por favor, selecciona una opción (1-6):
 ```
 
+Ejemplo de lista de fantasmas capturados:
+
+| ID | Nombre                           | Clase  | Nivel de Peligro | Fecha de Captura |
+|----|----------------------------------|--------|-----------------|------------------|
+| 1  | Espíritu del Pescador de Lastres | Clase IV | Bajo          | 2025-01-26       |
+| 2  | Sombras del Monte Naranco       | Clase II | Medio         | 2025-01-24       |
+| 3  | Entidad de las Minas            | Clase VI | Alto          | 2025-01-20       |
+
 ---
 
 ## Tecnologías Utilizadas
@@ -111,11 +124,9 @@ Por favor, selecciona una opción (1-6):
 
 ## Autores
 
-👤 **Emma Lanza**
-- GitHub: [@emmalanza](https://github.com/emmalanza)
+👤  GitHub: [@emmalanza](https://github.com/emmalanza)
 
-👤 **Yef Gav**
-- GitHub: [@YefGav](https://github.com/YefGav)
+👤  GitHub: [@YefGav](https://github.com/YefGav)
 
 ---
 
