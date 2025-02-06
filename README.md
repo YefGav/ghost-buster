@@ -7,6 +7,7 @@
 
 ## Tabla de Contenidos
 - [Descripción](#descripción)
+- [Cómo Jugar](#cómo-jugar)
 - [Opciones del Jugador](#opciones-del-jugador)
 - [Instalación](#instalación)
 - [Uso](#uso)
@@ -36,6 +37,16 @@ Los habitantes de algunas aldeas, villas costeras e incluso grandes ciudades han
 Un nuevo equipo de Ghostbusters ha sido creado para proteger la región. ¡Vosotros formaréis parte de ese equipo!
 
 La base de operaciones está en un viejo almacén industrial en Avilés, acondicionado para albergar trampas ectoplásmicas y equipo de investigación.
+
+---
+
+## Cómo Jugar 🎮
+
+1. **Captura fantasmas** que rondan diferentes lugares de Asturias.
+2. **Consulta tu colección** para analizar características y planear estrategias.
+3. **Libera fantasmas** menos peligrosos si necesitas más espacio.
+4. **Filtra y estudia los fantasmas** por clase y fecha de captura.
+5. **Asegura la protección de Asturias** y conviértete en un legendario Ghostbuster.
 
 ---
 
@@ -124,9 +135,11 @@ Ejemplo de lista de fantasmas capturados:
 
 ## Autores
 
-👤  GitHub: [@emmalanza](https://github.com/emmalanza)
+👤 **Emma Lanza**
+- GitHub: [@emmalanza](https://github.com/emmalanza)
 
-👤  GitHub: [@YefGav](https://github.com/YefGav)
+👤 **Yef Gav**
+- GitHub: [@YefGav](https://github.com/YefGav)
 
 ---
 
@@ -154,4 +167,5 @@ Ejemplo de lista de fantasmas capturados:
 ## Licencia
 
 Este proyecto actualmente no tiene una licencia específica.
+
 
